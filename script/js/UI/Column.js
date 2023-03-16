@@ -1,4 +1,4 @@
-import KanbanAPI from '../api.js';
+import KanbanAPI from '../Api.js';
 import DropZone from './DropZone.js';
 import Item from './Item.js';
 
@@ -52,3 +52,4 @@ export default class Column {
     this.elements.items.appendChild(item.elements.root);
   }
 }
+null;

@@ -1,3 +1,3 @@
-import Ui from './js//UI/ui.js';
+import Kanban from './js//UI/ui.js';
 
-new Ui(document.querySelector('.kanban'));
+new Kanban(document.querySelector('.kanban'));
